@@ -1,0 +1,10 @@
+order_id,product_name,quantity,total_price,date,channel
+1,Lays Chips,2,120.0,2026-09-03 15:36:28,online
+2,Pepsi 1.5L,1,150.0,2026-09-03 15:36:28,online
+3,Test Mango Juice,5,950.0,2026-09-03 16:36:57,physical
+4,Basmati Rice 5kg,1,850.0,2026-09-03 16:36:57,physical
+5,Basmati Rice 5kg,1,850.0,2026-09-03 16:40:19,physical
+6,Basmati Rice 5kg,5,4250.0,2026-09-03 18:56:54,online
+7,Basmati Rice 5kg,19,16150.0,2026-09-03 18:57:41,online
+8,Basmati Rice 5kg,1,850.0,2026-10-13 17:03:04,online
+9,Basmati Rice 5kg,3,2295.0,2026-10-13 17:03:28,online

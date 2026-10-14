@@ -1,0 +1,23 @@
+product_id,name,category,price,stock
+1,Basmati Rice 5kg,Grocery,850,20
+2,Wheat Flour 10kg,Grocery,1100,40
+3,Sugar 1kg,Grocery,160,100
+4,Nestle Milk 1L,Dairy,180,80
+5,Olpers Cream,Dairy,120,60
+6,Cheddar Cheese 200g,Dairy,450,30
+7,Bread Loaf,Bakery,120,25
+8,Croissant,Bakery,80,40
+9,Lays Chips,Snacks,60,98
+10,Kurkure,Snacks,50,90
+11,Pringles,Snacks,350,45
+12,Pepsi 1.5L,Beverages,150,59
+13,Nestle Water 1.5L,Beverages,60,120
+14,Minute Maid Juice,Beverages,120,50
+15,Surf Excel 1kg,Detergent,420,30
+16,Ariel 1kg,Detergent,480,25
+17,Colgate Toothpaste,Personal Care,250,40
+18,Head & Shoulders 400ml,Personal Care,850,20
+19,Dettol Soap,Personal Care,120,70
+20,Chicken Nuggets,Frozen Foods,650,20
+21,Beef Burger Patties,Frozen Foods,750,15
+22,Frozen Peas 500g,Frozen Foods,280,35
